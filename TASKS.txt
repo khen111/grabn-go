@@ -1,0 +1,14 @@
+5/25/2024
+GRAB 'N GO 
+TASKS:
+
+1. Rename ang images format (GNG_filename) dapat naka .png or .jpg lang, tas buhatan og list of filename, make sure dli blurred
+2. E insert tanan products sa database
+3. Mag check each file sa template para gamiton
+4. E remake ang ERD base sa spec./mod.
+5. E remake ang Specification/Module naa sa gsheet(IM)
+6. Mag buhat og simple CRUD system with database
+7. Tabangan e balin ang .html to .jsx base sa napilian nga file sa template
+8. Mangitag template dashboard
+9. Mag commit sa github para ma clone sa uban
+10. 
